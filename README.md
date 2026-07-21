@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-### 🔗 Connect With Me
+🔗 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mishal-ashfaq-503237332/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
