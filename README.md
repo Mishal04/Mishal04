@@ -68,7 +68,7 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mishal04&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
+### 💭 Dev Quotee
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
