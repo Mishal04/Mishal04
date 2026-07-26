@@ -1,89 +1,59 @@
 <p align="center">
-  <a href="https://github.com/Mishal04">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&text=Hello!%20I'm%20Mishal%20Ashfaq" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:db61a2,100:7F5AF0&height=220&section=header&text=Mishal%20Ashfaq&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20WordPress&descAlignY=60" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&pause=1000&color=db61a2&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;MERN+Stack+Developer;WordPress+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=DB61A2&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;WordPress+Developer;Building+Modern+Web+Applications" />
 </p>
 
-<h3 align="center">💻 Building Modern, Responsive & Scalable Web Applications</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mishal04&label=Profile%20Views&color=db61a2&style=for-the-badge"/>
+</p>
 
 ---
 
-# 🚀 About Me
+# 👋 About Me
 
-- 💻 Passionate **Full Stack Developer** specializing in the **MERN Stack** and **WordPress Development**.
-- 🚀 **Frontend Developer Intern** at **Tronex Trade**.
-- 🎓 BS Computer Science Student.
-- 🌱 Currently learning **Backend Development, System Design & Scalable Architectures**.
-- 💼 Interested in **Frontend, MERN Stack, Full Stack, and WordPress Development** opportunities.
-- 📍 Faisalabad, Pakistan.
+💜 I'm **Mishal Ashfaq**, a passionate **Full Stack Developer** specializing in the **MERN Stack** and **WordPress Development**.
 
----
-
-# 🛠 Tech Stack
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-
-</p>
+- 💼 Frontend Developer Intern at **Tronex Trade**
+- 🎓 BS Computer Science Student
+- 🌱 Currently learning **Backend Development, System Design & Scalable Architectures**
+- 🚀 Passionate about building responsive, scalable and user-friendly web applications
+- 📍 Faisalabad, Pakistan
+- 💬 Ask me about **React, Next.js, Node.js, Express.js, MongoDB, Firebase & WordPress**
 
 ---
 
 # 🚀 Featured Projects
 
 ### 🔐 Password Web
-A secure password manager built using the MERN Stack with authentication, secure notes, password generation, and responsive UI.
+A secure MERN Stack password manager featuring authentication, secure notes, password generation and a modern UI.
 
 ### 🍔 FoodExpress
-A modern food ordering web application featuring authentication, responsive layouts, and REST API integration.
+A responsive food ordering web application with authentication, REST APIs and a clean user experience.
 
 ### 💼 Personal Portfolio
-A responsive portfolio website built with Next.js showcasing my projects, skills, and development journey.
+A modern portfolio built with **Next.js** showcasing my projects, skills and certifications.
 
 ### 🌐 Tronex Trade
-Contributed to responsive WordPress pages, landing pages, navigation systems, and UI components during my Frontend Developer Internship.
+Contributed to responsive WordPress pages, landing pages, navigation systems and UI components during my Frontend Developer Internship.
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,php,wordpress,git,github,figma,vscode,vercel" />
+
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/mishal-ashfaq-503237332/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -94,9 +64,17 @@ Contributed to responsive WordPress pages, landing pages, navigation systems, an
 </a>
 
 <a href="mailto:exoticmishaal9@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Mishal04&theme=algolia&no-frame=true&no-bg=true&margin-w=12"/>
 </p>
 
 ---
@@ -105,10 +83,18 @@ Contributed to responsive WordPress pages, landing pages, navigation systems, an
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Mishal04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mishal04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Mishal04&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mishal04&layout=compact&theme=tokyonight&hide_border=true"/>
 
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Mishal04&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -116,25 +102,33 @@ Contributed to responsive WordPress pages, landing pages, navigation systems, an
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mishal04&theme=tokyo-night&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mishal04&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# 💭 Developer Quote
+# 💭 Random Dev Quote
 
 <p align="center">
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
 </p>
+
+---
+
+## 💡 Currently Learning
+
+- Advanced Backend Development
+- Authentication & Security
+- System Design
+- Performance Optimization
+- Clean Architecture
 
 ---
 
 <p align="center">
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider ⭐ starring my repositories.
 
 </p>
