@@ -71,11 +71,7 @@ Contributed to responsive WordPress pages, landing pages, navigation systems and
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mishal04&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
 
 
 ## 📊 GitHub Stats
@@ -88,20 +84,24 @@ Contributed to responsive WordPress pages, landing pages, navigation systems and
 
 </p>
 
-# 🔥 GitHub Streak
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Mishal04&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mishal04&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mishal04&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-# 📈 Contribution Graph
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mishal04&theme=tokyo-night&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Mishal04&theme=tokyonight&hide_border=true" />
 </p>
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mishal04&theme=tokyo-night&hide_border=true" />
+</p>
 ---
 
 # 💭 Random Dev Quote
