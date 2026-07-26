@@ -71,25 +71,22 @@ Contributed to responsive WordPress pages, landing pages, navigation systems and
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mishal04&theme=algolia&no-frame=true&no-bg=true&margin-w=12"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mishal04&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
----
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mishal04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mishal04&show_icons=true&theme=radical&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mishal04&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mishal04&layout=compact&theme=radical&hide_border=true"/>
 
 </p>
-
----
 
 # 🔥 GitHub Streak
 
