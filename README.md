@@ -12,7 +12,7 @@
 
 💻 Full Stack Developer passionate about building modern, responsive, and scalable web applications.
 
-🚀 Frontend Developer Intern at Tronex Trade
+🚀 Full Stack Developer Developer Intern at Apexora 360
 
 🎓 BS Computer Science Student
 
