@@ -85,6 +85,7 @@ Contributed to responsive WordPress pages, landing pages, navigation systems and
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mishal04&theme=tokyo-night&hide_border=true" />
 </p>
 ---
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/396a431d-87d9-44fe-ab36-f03220a798f2" />
 
 # 💭 Random Dev Quote
 
