@@ -10,12 +10,17 @@
 
 ### 🚀 About Me
 
-🌱 &nbsp;I'm currently learning **Backend Development, MongoDB, Express.js**  
-👯 &nbsp;I'm looking to collaborate on **MERN Stack projects, Open Source, and React applications**  
-🤔 &nbsp;I'm looking for help with **Backend Architecture, Authentication, and Performance Optimization**  
-💬 &nbsp;Ask me about **React.js, JavaScript, Node.js, Express.js, MongoDB, Firebase, and Tailwind CSS**  
-😄 &nbsp;Pronouns: **She/Her**  
-⚡ &nbsp;Fun fact: **Turning coffee into clean code ☕💻**
+💻 Full Stack Developer passionate about building modern, responsive, and scalable web applications.
+
+🚀 Frontend Developer Intern at Tronex Trade
+
+🎓 BS Computer Science Student
+
+🌱 Currently learning Backend Development, System Design, and scalable architectures.
+
+💼 Interested in Frontend, MERN Stack, and Full Stack Development opportunities.
+
+📍 Faisalabad, Pakistan
 
 ### 🛠️ Tech Stack
 
