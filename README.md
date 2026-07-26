@@ -73,17 +73,6 @@ Contributed to responsive WordPress pages, landing pages, navigation systems and
 
 
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mishal04&show_icons=true&theme=radical&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mishal04&layout=compact&theme=radical&hide_border=true"/>
-
-</p>
-
 ## 📊 GitHub Stats
 
 <p align="center">
