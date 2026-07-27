@@ -76,9 +76,8 @@ Contributed to responsive WordPress pages, landing pages, navigation systems and
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mishal04&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Mishal04&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ## 📈 Contribution Graph
 
 <p align="center">
