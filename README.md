@@ -16,7 +16,7 @@
 
 💜 I'm **Mishal Ashfaq**, a passionate **Full Stack Developer** specializing in the **MERN Stack** and **WordPress Development**.
 
-- 💼 Frontend Developer Intern at **Tronex Trade**
+- 💼 Frontend Developer Intern at **Apexora 360**
 - 🎓 BS Computer Science Student
 - 🌱 Currently learning **Backend Development, System Design & Scalable Architectures**
 - 🚀 Passionate about building responsive, scalable and user-friendly web applications
