@@ -82,7 +82,15 @@ Contributed to responsive WordPress pages, landing pages, navigation systems and
 
 ---
 
+## 📊 GitHub Stats
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mishal04&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mishal04&theme=tokyonight" />
+</p>
 
 
 ## 📈 Contribution Graph
