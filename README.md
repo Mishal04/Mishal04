@@ -120,19 +120,17 @@ WordPress • HTML • CSS • Elementor • Responsive Design • Website Optim
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mishal04&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mishal04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mishal04&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mishal04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Mishal04&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Mishal04&theme=tokyonight&hide_border=true" />
 
 </p>
-
----
 
 # 📈 Contribution Graph
 
