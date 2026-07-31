@@ -116,16 +116,12 @@ WordPress • HTML • CSS • Elementor • Responsive Design • Website Optim
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mishal04&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mishal04&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mishal04&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mishal04&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
-
 ---
 
 # 📈 Contribution Graph
