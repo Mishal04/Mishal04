@@ -39,6 +39,17 @@ A modern portfolio built with **Next.js** showcasing my projects, skills and cer
 ### 🌐 Tronex Trade
 Contributed to responsive WordPress pages, landing pages, navigation systems and UI components during my Frontend Developer Internship.
 
+## 🌐 Professional WordPress Work
+
+### Stoica Pro (Team Project)
+- Developed during my internship at Apexora 360
+- Built responsive WordPress pages
+- Customized Elementor layouts
+- Website optimization
+- Plugin configuration
+
+🔗 https://stoicapro.com/
+
 ---
 
 # 🛠 Tech Stack
