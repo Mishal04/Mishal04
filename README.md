@@ -18,7 +18,7 @@
 
 - 💼 Frontend Developer Intern at **Apexora 360**
 - 🎓 BS Computer Science Student
-- 🌱 Currently learning **Backend Development, System Design & Scalable Architectures**
+- 🌱 Currently learning **Backend Development, Authentication, System Design & Scalable Architectures**
 - 🚀 Passionate about building responsive, scalable and user-friendly web applications
 - 📍 Faisalabad, Pakistan
 - 💬 Ask me about **React, Next.js, Node.js, Express.js, MongoDB, Firebase & WordPress**
@@ -28,25 +28,61 @@
 # 🚀 Featured Projects
 
 ### 🔐 Password Web
-A secure MERN Stack password manager featuring authentication, secure notes, password generation and a modern UI.
+A secure MERN Stack password manager featuring authentication, encrypted vaults, secure notes, password generation and a modern responsive UI.
 
 ### 🍔 FoodExpress
-A responsive food ordering web application with authentication, REST APIs and a clean user experience.
+A full-stack food ordering application built with React, Node.js, Express and MongoDB featuring authentication and REST APIs.
 
 ### 💼 Personal Portfolio
-A modern portfolio built with **Next.js** showcasing my projects, skills and certifications.
+A modern portfolio built with **Next.js** showcasing my projects, skills, certifications and professional experience.
 
-### 🌐 Tronex Trade
-Contributed to responsive WordPress pages, landing pages, navigation systems and UI components during my Frontend Developer Internship.
+### 🏠 Real Estate Platform
+A property listing web application with responsive UI, advanced search and optimized user experience.
 
-## 🌐 Professional WordPress Work
+### 📋 Task Manager
+A responsive CRUD application for task management with clean UI and intuitive workflow.
 
-### Stoica Pro (Team Project)
-- Developed during my internship at Apexora 360
-- Built responsive WordPress pages
-- Customized Elementor layouts
-- Website optimization
-- Plugin configuration
+---
+
+# 🌐 Professional WordPress Projects
+
+## 🚀 Tronex Trade (Team Project)
+
+Developed during my **Frontend Developer Internship at Apexora 360**.
+
+### My Contributions
+
+- Developed responsive WordPress pages.
+- Built landing pages with modern UI.
+- Designed responsive mobile navigation.
+- Customized layouts and UI components.
+- Fixed bugs and optimized website performance.
+- Collaborated with team members throughout development.
+
+**Tech Stack**
+
+WordPress • HTML • CSS • JavaScript • Responsive Design • UI/UX
+
+🔗 https://tronex.trade/
+
+---
+
+## 🚀 StoicaPro (Team Project)
+
+Contributed to the development of the **StoicaPro** website during my internship at **Apexora 360**.
+
+### My Contributions
+
+- Built responsive WordPress pages.
+- Customized Elementor layouts.
+- Plugin configuration.
+- Website optimization.
+- Bug fixing.
+- Worked in a collaborative development environment.
+
+**Tech Stack**
+
+WordPress • HTML • CSS • Elementor • Responsive Design • Website Optimization
 
 🔗 https://stoicapro.com/
 
@@ -55,9 +91,7 @@ Contributed to responsive WordPress pages, landing pages, navigation systems and
 # 🛠 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,php,wordpress,git,github,figma,vscode,vercel" />
-
 </p>
 
 ---
@@ -82,27 +116,25 @@ Contributed to responsive WordPress pages, landing pages, navigation systems and
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mishal04&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mishal04&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mishal04&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mishal04&theme=tokyonight" />
-</p>
-
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mishal04&theme=tokyo-night&hide_border=true" />
-</p>
 ---
 
+# 📈 Contribution Graph
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mishal04&theme=tokyo-night&hide_border=true"/>
+</p>
 
-
+---
 
 # 💭 Random Dev Quote
 
@@ -112,20 +144,22 @@ Contributed to responsive WordPress pages, landing pages, navigation systems and
 
 ---
 
-## 💡 Currently Learning
+# 💡 Currently Learning
 
 - Advanced Backend Development
 - Authentication & Security
 - System Design
 - Performance Optimization
 - Clean Architecture
+- Docker
+- TypeScript
 
 ---
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-If you like my work, consider ⭐ starring my repositories.
+If you like my work, consider **⭐ starring my repositories**.
 
 </p>
