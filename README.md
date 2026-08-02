@@ -27,7 +27,7 @@
 
 # 🚀 Featured Projects
 
-### 🔐 Password Web
+### 🔐 Password Webbbbbbbb
 A secure MERN Stack password manager featuring authentication, encrypted vaults, secure notes, password generation and a modern responsive UI.
 
 ### 🍔 FoodExpress
