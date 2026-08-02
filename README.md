@@ -12,7 +12,7 @@
 
 ---
 
-# 👋 About Meeee
+# 👋 About Me
 
 💜 I'm **Mishal Ashfaq**, a passionate **Full Stack Developer** specializing in the **MERN Stack** and **WordPress Development**.
 
