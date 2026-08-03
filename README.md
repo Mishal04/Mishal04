@@ -26,7 +26,7 @@
 ---
 
 
-# 🚀 Featured Projectssssssss
+# 🚀 Featured Projects
 
 
 ### 🔐 Password Web
