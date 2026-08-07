@@ -46,7 +46,7 @@ A responsive CRUD application for task management with clean UI and intuitive wo
 
 ---
 
-# 🌐 Professional WordPress Projects
+# 🌐 Professional WordPress Projectss
 
 ## 🚀 Tronex Trade (Team Project)
 
