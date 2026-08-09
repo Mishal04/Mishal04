@@ -32,7 +32,7 @@
 ### 🔐 Password Web
 A secure MERN Stack password manager featuring authentication, encrypted vaults, secure notes, password generation and a modern responsive UI.
 
-### 🍔 FoodExpress
+### 🍔 FoodExpres
 A full-stack food ordering application built with React, Node.js, Express and MongoDB featuring authentication and REST APIs.
 
 ### 💼 Personal Portfolio
