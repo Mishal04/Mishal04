@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=DB61A2&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;WordPress+Developer;Building+Modern+Web+Applications" />
 </p>
 
-<p align="center" >
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mishal04&label=Profile%20Views&color=db61a2&style=for-the-badge"/>
 </p>
 
