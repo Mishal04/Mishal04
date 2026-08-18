@@ -66,7 +66,7 @@ Developed during my **Frontend Developer Internship at Apexora 360**.
 WordPress • HTML • CSS • JavaScript • Responsive Design • UI/UX
 
 🔗 https://tronex.trade/
-
+ 
 ---
 
 ## 🚀 StoicaPro (Team Project)
