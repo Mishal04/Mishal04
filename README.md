@@ -41,7 +41,7 @@ A modern portfolio built with **Next.js** showcasing my projects, skills, certif
 ### 🏠 Real Estate Platform
 A property listing web application with responsive UI, advanced search and optimized user experience.
 
-### 📋 Task Managerr
+### 📋 Task Manager
 A responsive CRUD application for task management with clean UI and intuitive workflow.
 
 ---
