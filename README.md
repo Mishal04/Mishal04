@@ -25,7 +25,7 @@
 - 📍 Faisalabad, Pakistan
 - 💬 Ask me about **React, Next.js, Node.js, Express.js, MongoDB, Firebase & WordPress**
 
-----
+---
 
 
 # 🚀 Featured Projects
