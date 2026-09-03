@@ -28,7 +28,7 @@
 ---
 
 
-# 🚀 Featured Projectss
+# 🚀 Featured Projects
 
 
 ### 🔐 Password Webb
