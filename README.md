@@ -49,50 +49,6 @@ A responsive CRUD application for task management with clean UI and intuitive wo
 
 ---
 
-# 🌐 Professional WordPress Projects
-
-## 🚀 Tronex Trade (Team Project)
-
-Developed during my **Frontend Developer Internship at Apexora 360**.
-
-### My Contributions
-
-- Developed responsive WordPress pages
-- Built landing pages with modern UI
-- Designed responsive mobile navigation
-- Customized layouts and UI components
-- Fixed bugs and optimized website performance
-- Collaborated with team members throughout development
-
-**Tech Stack**
-
-`WordPress` • `HTML` • `CSS` • `JavaScript` • `Responsive Design` • `UI/UX`
-
-🔗 **Website:** https://tronex.trade/
-
----
-
-## 🚀 StoicaPro (Team Project)
-
-Contributed to the development of the **StoicaPro** website during my internship at **Apexora 360**.
-
-### My Contributions
-
-- Built responsive WordPress pages
-- Customized Elementor layouts
-- Plugin configuration
-- Website optimization
-- Bug fixing
-- Worked in a collaborative development environment
-
-**Tech Stack**
-
-`WordPress` • `HTML` • `CSS` • `Elementor` • `Responsive Design` • `Website Optimization`
-
-🔗 **Website:** https://stoicapro.com/
-
----
-
 # 🛠 Tech Stack
 
 <p align="center">
