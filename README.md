@@ -25,30 +25,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-### 🔐 Password Web
-
-A secure MERN Stack password manager featuring authentication, encrypted vaults, secure notes, password generation and a modern responsive UI.
-
-### 🍔 FoodExpress
-
-A full-stack food ordering application built with React, Node.js, Express and MongoDB featuring authentication and REST APIs.
-
-### 💼 Personal Portfolio
-
-A modern portfolio built with **Next.js** showcasing my projects, skills, certifications and professional experience.
-
-### 🏠 Real Estate Platform
-
-A property listing web application with responsive UI, advanced search and optimized user experience.
-
-### 📋 Task Manager
-
-A responsive CRUD application for task management with clean UI and intuitive workflow.
-
----
-
 # 🛠 Tech Stack
 
 <p align="center">
