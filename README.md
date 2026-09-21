@@ -18,7 +18,7 @@
 
 -  Frontend Developer Intern at **Apexora 360**
 -  BS Computer Science Student
-- 🌱 Currently learning **Backend Development, Authentication, System Design & Scalable Architectures**
+-  Currently learning **Backend Development, Authentication, System Design & Scalable Architectures**
 - 🚀 Passionate about building responsive, scalable and user-friendly web applications
 - 📍 Faisalabad, Pakistan
 - 💬 Ask me about **React, Next.js, Node.js, Express.js, MongoDB, Firebase & WordPress**
