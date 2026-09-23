@@ -34,7 +34,7 @@
 
 ---
 
-# 🌐 Connect With Me on
+# 🌐 Connect With Me
 
 <p align="center">
 
