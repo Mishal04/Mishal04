@@ -82,7 +82,7 @@
 
 ---
 
-# 💡 Currently Learningg
+# 💡 Currently Learning
 
 - Advanced Backend Development
 - Authentication & Security
