@@ -34,7 +34,7 @@
 
 ---
 
-# 🌐 Connect With Mee
+# 🌐 Connect With Me
 
 <p align="center">
 
