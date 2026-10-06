@@ -72,7 +72,7 @@
 
 ---
 
-# 💭 Random Dev Quote
+# 💭 Random Dev Quotee
 
 <p align="center">
 
