@@ -15,7 +15,7 @@
 
 # About Me
 
-💜 I'm **Mishal Ashfaq**, a passionate **Full Stack Developer** specializing in the **MERN Stack** and **WordPress Development**.
+I'm **Mishal Ashfaq**, a passionate **Full Stack Developer** specializing in the **MERN Stack** and **WordPress Development**.💜
 
 -  BS Computer Science Student
 -  Passionate about building responsive, scalable and user-friendly web applications
