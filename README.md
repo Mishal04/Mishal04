@@ -52,7 +52,7 @@ I'm **Mishal Ashfaq**, a passionate **Full Stack Developer** specializing in the
 
 ----
 
-# 📊 GitHub Statistics
+#  GitHub Statistics
 
 <p align="center">
 
