@@ -80,7 +80,7 @@ I'm **Mishal Ashfaq**, a passionate **Full Stack Developer** specializing in the
 
 ---
 
-# 💡 Currently Learningg
+# 💡 Currently Learning
 
 - Advanced Backend Development
 - Authentication & Security
