@@ -70,7 +70,7 @@ I'm **Mishal Ashfaq**, a passionate **Full Stack Developer** specializing in the
 
 ----
 
-# 💭 Random Dev Quote
+# 💭 Random Dev Quotee
 
 <p align="center">
 
