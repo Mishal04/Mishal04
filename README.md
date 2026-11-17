@@ -13,7 +13,7 @@ e<p align="center">
 
 ---
 
-# About Mee
+# About Me
 
 I'm **Mishal Ashfaq**, a passionate **Full Stack Developer** specializing in the **MERN Stack** and **WordPress Developmentt**.💜
 
