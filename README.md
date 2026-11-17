@@ -1,4 +1,4 @@
-<p align="center">  
+e<p align="center">  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:db61a2,100:7F5AF0&height=220&section=header&text=Mishal%20Ashfaq&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20WordPress&descAlignY=60" />
 </p>
  
@@ -13,7 +13,7 @@
 
 ---
 
-# About Me
+# About Mee
 
 I'm **Mishal Ashfaq**, a passionate **Full Stack Developer** specializing in the **MERN Stack** and **WordPress Developmentt**.💜
 
