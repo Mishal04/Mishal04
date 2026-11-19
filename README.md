@@ -32,7 +32,7 @@ I'm **Mishal Ashfaq**, a passionate **Full Stack Developer** specializing in the
 
 ---
 
-# 🌐 Connect With Meee
+# 🌐 Connect With Me
 
 <p align="center">
 
